@@ -14,5 +14,7 @@ echo "<p>lorem ipsum dolor</p>";
 
 echo "<p>ipsum lorem dolor lalala bla bla bla!";
 
+echo '<div class="section-1">';
+
 echo "</main>";
 ?>
